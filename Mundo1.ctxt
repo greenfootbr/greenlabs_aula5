@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Mundo1
+comment0.text=\r\n\ Classe\ para\ criar\ o\ mundo\ 1.\r\n\ \r\n\ @author\ (Jhonatan\ Morais\ -\ jhonatanvinicius@gmail.com\ |\ jhonatan@dfjug.org)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=Mundo1()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=novaCena
+comment3.target=void\ projetor(greenfoot.GreenfootImage)
+comment3.text=\r\n\ \ Solicita\ que\ o\ cen\u00E1rio\ seja\ atualizado\ com\ a\ proxima\ cena\r\n
+comment4.params=
+comment4.target=greenfoot.GreenfootImage\ proximaCena()
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ filme()
+comment5.text=\r\n\ \ Cria\ a\ nova\ cena\ do\ jogo\ de\ acordo\ com\ o\ quadro\ atualmente\ apresentado.\r\n
+comment6.params=proximoQuadro
+comment6.target=greenfoot.GreenfootImage\ imagemDoNovoQuadro(int)
+comment6.text=\r\n\ Apenas\ busca\ as\ novas\ filetas\ dentro\ do\ diret\u00F3rio\ de\ imagem\r\n
+numComments=7

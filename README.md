@@ -1,5 +1,5 @@
 # GreenLabs Aula #5 - Runner Cat! O gato maratonista
-Esta é a aula #4 da Série GreenLabs/GreenfootBR/DFJUG. 
+Esta é a aula #5 da Série GreenLabs/GreenfootBR/DFJUG. 
 Nesta aula nós realizamos a integração entre o cenário em movimento e nosso protagonista O gato Zé. com essa passo já é possível ver facilmente o progresso de nosso trabalho   
 
 
@@ -8,6 +8,22 @@ Nesta aula nós realizamos a integração entre o cenário em movimento e nosso 
 * utilização de imagens (sprites) para dar ideia de movimento;
 * Integração do personagem com o mundo;
 * Mais explicações sobre a dinâmica do jogo
+
+## Vídeo Aula
+* [Assista ao vídeo desta aula](https://www.youtube.com/watch?v=QZF4rzgQNoM)
+
+## Equipe | Team
+
+** Edição, Produção e Arte
+* Daniel de Oliveira
+* Luciene Cavalcante
+* Aecio Junior
+* Jhonatan Morais - http://goo.gl/hoSdxW
+
+** Testes e Qualidade
+* Cesar Junior
+* José Raimundo
+* Maicon Oliveira
 
 ## Equipe | Team
 
